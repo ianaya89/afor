@@ -1,0 +1,20 @@
+{
+  "name": "afor",
+  "version": "0.0.1",
+  "description": "Simple async iterator for NodeJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "for",
+    "iterator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ianaya89/afor.git"
+  },
+  "author": "Ignacio Anaya <ignacio.anaya89@gmail.com>",
+  "license": "MIT"
+}
