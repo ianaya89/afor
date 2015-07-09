@@ -1,9 +1,11 @@
-# node-afor
+# afor
 
-Simple async iterator for Node.js
+Simple npm module to make async iterators in Node.js
 
 ### Installation
-[TBA]
+```
+npm install afor --save
+```
 
 ### Usage
 ```
