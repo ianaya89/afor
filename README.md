@@ -20,7 +20,7 @@ afor(0, 1000, function(i){
 Try this code in your Node.js console and check it yourself:
 ```
 for (var i = 0; i < 10000000; i++) {
-  console.log("We're on:", i);
+  console.log("I:", i);
 }
 ```
 
