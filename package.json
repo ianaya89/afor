@@ -1,6 +1,6 @@
 {
   "name": "afor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple async iterator for NodeJS",
   "main": "app.js",
   "scripts": {
