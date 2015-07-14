@@ -1,6 +1,6 @@
 function afor(from, to, callback, done) {
   var job = null;
-  var current = from; 
+  var current = from;
 
   function iterator() {
     if (current >= to) {
