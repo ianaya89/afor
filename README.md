@@ -2,6 +2,8 @@
 
 Simple npm module to make async iterators in Node.js
 
+[![npm version](https://badge.fury.io/js/afor.svg)](http://badge.fury.io/js/afor)
+
 ### Installation
 ```
 npm install afor --save
